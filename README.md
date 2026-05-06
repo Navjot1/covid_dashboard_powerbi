@@ -42,6 +42,11 @@ and easy navigation.
 - CSV data processing
 - Custom visuals (Rotating Tile, Scroller)
 
+## 📷 Screenshots
+<img width="1555" height="748" alt="image" src="https://github.com/user-attachments/assets/e9393d35-035d-4546-a753-b13ea456bd82" />
+<img width="1557" height="746" alt="image" src="https://github.com/user-attachments/assets/24876ed1-0c9d-451a-a07a-b0bc2ac62cc0" />
+<img width="1365" height="737" alt="image" src="https://github.com/user-attachments/assets/07268212-db14-48ad-8af7-c190d92cc281" />
+
 ## Data Source
 Johns Hopkins University CSSE COVID-19 Dataset
 https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/
